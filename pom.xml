@@ -23,7 +23,6 @@
          <url>file:///var/lib/jenkins/myartifacts/</url>
     </repository>
 </distributionManagement>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
